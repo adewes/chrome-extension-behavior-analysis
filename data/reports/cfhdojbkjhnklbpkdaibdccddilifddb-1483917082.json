@@ -1,0 +1,96 @@
+{
+  "with_extension": {
+    "https://www.google.de/maps/@49.3428062,6.78282,13z?hl=en": [
+      "notification.adblockplus.org", 
+      "www.google.de", 
+      "maps.gstatic.com", 
+      "www.google.com"
+    ], 
+    "https://www.mozilla.org": [
+      "www.mozilla.org", 
+      "ocsp.digicert.com", 
+      "www.google-analytics.com", 
+      "www.googletagmanager.com"
+    ], 
+    "https://www.tagesschau.de": [
+      "de.sitestat.com", 
+      "www.sportschau.de", 
+      "script.ioam.de", 
+      "www.tagesschau.de", 
+      "de.ioam.de", 
+      "kurse.boerse.ard.de", 
+      "wetter.tagesschau.de"
+    ], 
+    "https://www.uni-sb.de": [
+      "www.uni-saarland.de", 
+      "www.uni-sb.de", 
+      "statistics.uni-saarland.de"
+    ], 
+    "https://www.facebook.com/Speicherstadt-Kaffeer%C3%B6sterei-118962444840064/": [
+      "www.facebook.com", 
+      "www.test.de", 
+      "external.ftxl1-1.fna.fbcdn.net", 
+      "cx.atdmt.com", 
+      "video.ftxl1-1.fna.fbcdn.net", 
+      "scontent.ftxl1-1.fna.fbcdn.net", 
+      "www.googleadservices.com", 
+      "staticxx.facebook.com", 
+      "googleads.g.doubleclick.net"
+    ], 
+    "https://www.google.de/?gfe_rd=cr&ei=dr9fWKHfJc7i8AeutpSwAg#q=test": [
+      "www.google.de", 
+      "ssl.gstatic.com", 
+      "consent.google.com"
+    ], 
+    "https://www.arbeitsagentur.de": [
+      "root-c3-ca2-ev-2009.ocsp.d-trust.net", 
+      "www.arbeitsagentur.de", 
+      "ssl-c3-ca1-ev-2009.ocsp.d-trust.net"
+    ], 
+    "https://twitter.com/josephfcox": [
+      "t.tellapart.com", 
+      "analytics.twitter.com", 
+      "cm.g.doubleclick.net", 
+      "stats.g.doubleclick.net", 
+      "twitter.com", 
+      "www.google-analytics.com", 
+      "syndication.twitter.com", 
+      "abs.twimg.com", 
+      "pbs.twimg.com"
+    ], 
+    "https://www.youtube.com/watch?v=WhU1ZXLsKCg": [
+      "fonts.gstatic.com", 
+      "www.youtube.com", 
+      "s.ytimg.com"
+    ], 
+    "https://www.eff.org": [
+      "anon-stats.eff.org", 
+      "www.eff.org"
+    ], 
+    "https://www.ptb.de": [
+      "uhr.ptb.de", 
+      "www.ptb.de"
+    ], 
+    "https://www.uni-tuebingen.de": [
+      "www.uni-tuebingen.de", 
+      "vitruv.uni-tuebingen.de"
+    ], 
+    "https://en.wikipedia.org/wiki/List_of_wikis": [
+      "upload.wikimedia.org", 
+      "en.wikipedia.org"
+    ], 
+    "https://www.inria.fr": [
+      "www.inria.fr", 
+      "www.mediego.com", 
+      "ocsp.digicert.com", 
+      "www.youtube.com", 
+      "s.ytimg.com", 
+      "syndication.twitter.com", 
+      "cdn.syndication.twimg.com", 
+      "platform.twitter.com", 
+      "piwik.inria.fr"
+    ]
+  }, 
+  "without_extension": {}, 
+  "filename": "data/extensions/cfhdojbkjhnklbpkdaibdccddilifddb-1483917082.crx"
+}
