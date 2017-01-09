@@ -32,14 +32,16 @@ Finally, to analyze the downloaded extensions:
 
 This will test all extensions in `data/extension.json` for which there exists a downloaded version in `data/extensions`, and store the result in `data/reports`. If an extension already has been analyzed, it will skip it.
 
+The script contains an additional parameter `baseline`, which is set to `False` by default. If you set it to `True`, in addition to checking the browser behavior with the given extension installed, the script will check behavior without it as well, in order to provide a baseline for the connections made by opening the list of websites you provided. This is useful to distinguish "normal" tracking from extension-based tracking.
+
 ### Example Data
 
-the `data` directory contains example data for extension source code, lists and reports.
+The `data` directory contains example data for extension source code, lists and reports.
 
 ### Questions?
 
-Feel free to contact me
+Feel free to contact me.
 
 ### License
 
-This code is public domain, use it in whichever way you like (please not the different license for the Proxy server).
+This code is public domain, use it in whichever way you like (please note the different license for the Proxy server).
